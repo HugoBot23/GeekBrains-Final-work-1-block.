@@ -13,4 +13,4 @@ ___
 ## Блок-схема.
 ___
 
-![diagram](diagram tasks.png)
+![diagram tasks](diagram.png)
